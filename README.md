@@ -9,7 +9,7 @@ NetCDF形式のJRA-55のデータを展開し、風速強度の時系列動画�
 ## Wind_profilerフォルダ
 ・京都大学のホームページからウィンドプロファイラ観測データをスクレイピングするコード
 
-・BUFR形式のウィンドプロファイラデータを展開するコード（http://macroscope.world.coocan.jp/ja/edu/compex/use_jma_wind_profiler/index.htmlを参照してください）
+・BUFR形式のウィンドプロファイラデータを展開するコード（http://macroscope.world.coocan.jp/ja/edu/compex/use_jma_wind_profiler/index.html を参照してください）
 
 ・日データを各年で結合するコード
 
